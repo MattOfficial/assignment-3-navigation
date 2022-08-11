@@ -1,0 +1,25 @@
+{
+  "name": "assignment-3-navigation",
+  "version": "1.0.0",
+  "description": "Assignment 3 of the node js course.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MattOfficial/assignment-3-navigation.git"
+  },
+  "author": "MattOfficial",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MattOfficial/assignment-3-navigation/issues"
+  },
+  "homepage": "https://github.com/MattOfficial/assignment-3-navigation#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
